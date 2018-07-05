@@ -1,25 +1,28 @@
 {
-  "name": "lory.js",
+  "name": "@rsm/allfarblori",
   "version": "0.0.0-semantic-release",
   "description": "Touch enabled minimalistic slider written in vanilla JavaScript.",
-  "author": {
-    "name": "Maximilian Heinz",
-    "email": "info@maximilian-heinz.de",
-    "url": "https://twitter.com/_meandmax_"
-  },
-  "bugs": {
-    "url": "https://github.com/meandmax/lory/issues"
-  },
+  "contributors": [
+    {
+      "name": "Maximilian Heinz",
+      "email": "info@maximilian-heinz.de",
+      "url": "https://twitter.com/_meandmax_"
+    },
+    {
+      "name": "Dennis Morhardt",
+      "email": "dennis.morhardt@ressourcenmangel.de"
+    }
+  ],
   "inceptionYear": 2015,
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.githubusercontent.com/meandmax/lory/master/LICENSE"
+      "url": "https://raw.githubusercontent.com/ressourcenmangel/allfarblori/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/meandmax/lory.git"
+    "url": "https://github.com/ressourcenmangel/allfarblori.git"
   },
   "keywords": [
     "responsive",

@@ -315,7 +315,7 @@ function lory(slider, opts) {
             nextIndex += infinite;
         }
 
-        if (rewindPrev && Math.abs(position.x) === 0 && !direction) {
+        if (rewindPrev && Math.abs(position.x) === 0 && direction === false) {
             nextIndex = slides.length - 1;
             duration = rewindSpeed;
         }
